@@ -97,6 +97,20 @@
       "category": "Books",
       "amount": "3",
       "id": 14
+    },
+    {
+      "date": "2022-07-04",
+      "description": "Tennis Racquet",
+      "category": "Sports",
+      "amount": "1",
+      "id": 15
+    },
+    {
+      "date": "2022-07-14",
+      "description": "Amazon Kindle Paperwhite",
+      "category": "Books",
+      "amount": "2",
+      "id": 16
     }
   ]
 }

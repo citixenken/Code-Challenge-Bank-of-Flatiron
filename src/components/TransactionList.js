@@ -2,7 +2,6 @@ import TransactionItem from "./TransactionItem";
 import React, { useState, useEffect } from "react";
 import SearchTransaction from "./SearchTransaction";
 import AddTransactionForm from "./AddTransactionForm";
-// import TransactionList from "./TransactionList";
 
 function TransactionList() {
   const [transactions, setTransactions] = useState([]);
@@ -15,7 +14,7 @@ function TransactionList() {
       .then((transactions) => setTransactions(transactions));
   }, []);
 
-  //POST FUNCTIONALITY
+  //POST FUNCTIONALITY TO DB
   function handleAddTransaction(newTransaction) {
     setTransactions([...transactions, newTransaction]);
   }
