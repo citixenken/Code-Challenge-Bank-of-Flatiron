@@ -1,17 +1,16 @@
-import React, { Component } from "react";
-import AccountContainer from "./AccountContainer";
+import React from "react";
 import "../stylesheets/App.css";
+import TransactionDisplayPage from "./TransactionDisplayPage";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="ui raised segment">
-        <div className="ui segment violet inverted">
-          <h2>The Royal Bank of Flatiron</h2>
-        </div>
+function App() {
+  return (
+    <div className="ui raised segment">
+      <div className="ui segment violet inverted">
+        <h1>The Royal Bank of Flatiron</h1>
       </div>
-    );
-  }
+      <TransactionDisplayPage />
+    </div>
+  );
 }
 
 export default App;

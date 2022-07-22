@@ -86,38 +86,10 @@
     },
     {
       "date": "2020-10-03",
-      "description": "chuck and chess",
+      "description": "chuck and cheese",
       "category": "Food",
       "amount": "353423",
       "id": 13
-    },
-    {
-      "date": "2020-10-17",
-      "description": "aaa",
-      "category": "aaa",
-      "amount": "55",
-      "id": 15
-    },
-    {
-      "date": "2020-10-17",
-      "description": "zzz",
-      "category": "qas",
-      "amount": "346",
-      "id": 16
-    },
-    {
-      "date": "2020-10-31",
-      "description": "ggg",
-      "category": "ggg",
-      "amount": "23",
-      "id": 17
-    },
-    {
-      "date": "2022-07-13",
-      "description": "jhgffsg",
-      "category": "Food",
-      "amount": "9000",
-      "id": 18
     }
   ]
 }
