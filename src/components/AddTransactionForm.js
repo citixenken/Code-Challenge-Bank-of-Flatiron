@@ -69,7 +69,7 @@ function AddTransactionForm({ onAddTransaction }) {
             onChange={(e) => setAmount(e.target.value)}
           />
         </div>
-        <button className="ui button" type="submit">
+        <button className="ui button" type="submit" style={{ color: "green" }}>
           Add Transaction
         </button>
       </form>

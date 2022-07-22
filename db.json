@@ -90,6 +90,13 @@
       "category": "Food",
       "amount": "353423",
       "id": 13
+    },
+    {
+      "date": "2022-06-27",
+      "description": "Amazon Kindle Paperwhite",
+      "category": "Books",
+      "amount": "3",
+      "id": 14
     }
   ]
 }
